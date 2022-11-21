@@ -6,7 +6,7 @@
   <img src='assets/framework.png' width='900'/>
 </p>
 
-ProContEXT achieves SOTA performance on multiple benchmarks.
+[ProContEXT](https://arxiv.org/abs/2210.15511) achieves SOTA performance on multiple benchmarks.
 
 | Tracker     | GOT-10K (AO) | TrackingNet (AUC) |
 |:-----------:|:------------:|:-----------:|
@@ -52,6 +52,29 @@ python tracking/test.py procontext procontext --dataset trackingnet --threads 16
 
 ## Acknowledgment
 Our implementation is mainly based on [OSTrack](https://github.com/botaoye/OSTrack), [Stark](https://github.com/researchmm/Stark), [pytracking](https://github.com/visionml/pytracking), and [Timm](https://github.com/rwightman/pytorch-image-models). We gratefully thank the authors for their wonderful works.
+
+
+## Citation
+Please cite the following paper if this repo helps your research:
+```bibtex
+@article{ProContEXT,
+  author    = {Jin{-}Peng Lan and
+               Zhi{-}Qi Cheng and
+               Jun{-}Yan He and
+               Chenyang Li and
+               Bin Luo and
+               Xu Bao and
+               Wangmeng Xiang and
+               Yifeng Geng and
+               Xuansong Xie},
+  title     = {ProContEXT: Exploring Progressive Context Transformer for Tracking},
+  journal   = {CoRR},
+  volume    = {abs/2210.15511},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2210.15511},
+  doi       = {10.48550/arXiv.2210.15511},
+}
+```
 
 
 ## License
