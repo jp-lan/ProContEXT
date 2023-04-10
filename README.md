@@ -1,6 +1,6 @@
 # ProContEXT
 
-## ProContEXT: EXPLORING PROGRESSIVE CONTEXT TRANSFORMER FOR TRACKING
+## ProContEXT: Exploring Progressive Context Transformer for Tracking
 
 <p align='left'>
   <img src='assets/framework.png' width='900'/>
