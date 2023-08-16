@@ -1,8 +1,7 @@
-# ProContEXT
 
-## ProContEXT: Exploring Progressive Context Transformer for Tracking
 
-> **ICASSP 2023 (Oral)**
+# ProContEXT: Exploring Progressive Context Transformer for Tracking
+
 
 
 ### Introduction
